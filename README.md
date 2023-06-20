@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdullahinlinux
+- 👋 Hi, I’m @abdullah al mahtab
 - 👀 I’m interested in programming and ethical hacking.
 - 🌱 I’m currently learning web development and python.
 - 💞️ I’m looking to collaborate on ...
